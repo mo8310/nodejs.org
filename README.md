@@ -26,3 +26,19 @@ This project outlines the deployment of a Node.js application on a local Kuberne
 ```bash
 git clone https://github.com/mo8310/nodejs.org.git
 cd nodejs.org
+```
+### Step 3: Build and Run Locally
+   - Install dependencies:
+     ```bash
+     npm install
+     ```
+   - Run the development server:
+     ```bash
+     npx turbo dev
+     ```
+   - The site should now be available at `http://localhost:3000`.
+### Step 4: Test
+   - Ensure the application is functioning as expected by running:
+     ```bash
+     npm test
+     ```

@@ -42,3 +42,5 @@ cd nodejs.org
      ```bash
      npm test
      ```
+### Step 5: Dockerize the Application
+  - Create and Build a `dockerfile` in the project directory and Push the Dockerfile to repo.

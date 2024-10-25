@@ -24,5 +24,5 @@ This project outlines the deployment of a Node.js application on a local Kuberne
 
 ### Step 2: Clone the Repository on Your VM
 ```bash
-git clone https://github.com/YOUR_USERNAME/nodejs.org.git
+git clone https://github.com/mo8310/nodejs.org.git
 cd nodejs.org

@@ -74,5 +74,13 @@ cd nodejs.org
 2. **Configure ArgoCD** to point to my GitHub repo for continuous delivery.
 
 
+![image-1](https://github.com/user-attachments/assets/ed92e544-fd36-4fbc-ba25-ff3b9ed7a32d)
+
+
+![WhatsApp Image 2024-10-25 at 15 41 11_f2a49e6c](https://github.com/user-attachments/assets/05483134-8bb0-45e8-b191-5355114fcb47)
+
+
+
+
 
 ذ
